@@ -1,6 +1,6 @@
 app-id: games.zetsubou.WanderNoMore
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '23.08'
 sdk: org.freedesktop.Sdk
 command: WanderNoMore.sh
 tags:
@@ -22,12 +22,12 @@ modules:
       - install -Dm644 games.zetsubou.WanderNoMore.png "/app/share/icons/hicolor/128x128/apps/games.zetsubou.WanderNoMore.png"
     sources:
       - type: archive
-        url: https://cdn.zetsubou.games/Flatpak/WanderNoMore/builds/v1.2.2-x86_64.tar.bz2
+        url: "https://www.dropbox.com/scl/fi/bedot18zbhbqo5crtnast/v1.2.2-x86_64.tar.bz2?rlkey=rsqpakukuwz46s0qs99po2r55&dl=1"
         sha512: c360c86ba3ab3b882bb1e307bd7807ad374e3c9a43be77114d6dfd09fbd9ab5f5859f9286100066676e21f7f86962fbaf3768ef35851e8b0ef6c2e66a57fc15b
         only-arches:
           - x86_64
       - type: archive
-        url: https://cdn.zetsubou.games/Flatpak/WanderNoMore/builds/v1.2.2-aarch64.tar.bz2
+        url: "https://www.dropbox.com/scl/fi/btmj9gqmglamj1580tgc5/v1.2.2-aarch64.tar.bz2?rlkey=drx15wdrwqqtc18tpv53av1il&dl=1"
         sha512: 9c415c7ce7d6fdee76d3cb5340daf482ee0d1cd60f8bbcde8e5d17add99415d13d79bacc1fed443dcaa93502abe47dcc31bc745904b695ab4746eb1989987ce2
         only-arches:
           - aarch64
@@ -39,4 +39,4 @@ modules:
         sha512: 08d3efd81b71c91a0dd1702bbca86536345b12aee60335ed2860ebcf041b8fc73a23903acf39eb57db2c1170e838f3f62ecf3006826794f1753d1dbb21e791f5
       - type: file
         path: games.zetsubou.WanderNoMore.metainfo.xml
-        sha512: 99e86094a7ce9cca64904e00a963969b987c553d85df2c0eb022db47625e9ded5065a11a0783f4b53f872bafa6d594ec73f5679ecd685bad009108d4cf2cb073
+
