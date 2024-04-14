@@ -59,4 +59,8 @@
 		<content_attribute id="sex-appearance">none</content_attribute>
 		<content_attribute id="language-profanity">mild</content_attribute>
 	</content_rating>
+	<branding>
+		<color type="primary" scheme_preference="light">#b5835a</color>
+		<color type="primary" scheme_preference="dark">#3d3846</color>
+	</branding>
 </component>
