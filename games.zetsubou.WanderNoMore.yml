@@ -1,6 +1,6 @@
 app-id: games.zetsubou.WanderNoMore
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '23.08'
 sdk: org.freedesktop.Sdk
 command: WanderNoMore.sh
 tags:
