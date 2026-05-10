@@ -38,19 +38,19 @@
 	<screenshots>
 		<screenshot type="default">
 			<image type="source" width="1186" height="667">https://cdn.zetsubou.games/Flatpak/WanderNoMore/screenshots/1.jpg</image>
-                        <image type="thumbnail" width="800" height="450">https://cdn.zetsubou.games/Flatpak/WanderNoMore/thumbnails/1.jpg</image>
+                        <image type="thumbnail" width="800" height="450">https://cdn.zetsubou.games/Flatpak/WanderNoMore/1.jpg</image>
 		</screenshot>
 		<screenshot>
 			<image type="source" width="1186" height="665">https://cdn.zetsubou.games/Flatpak/WanderNoMore/screenshots/2.jpg</image>
-                        <image type="thumbnail" width="800" height="449">https://cdn.zetsubou.games/Flatpak/WanderNoMore/thumbnails/2.jpg</image>
+                        <image type="thumbnail" width="800" height="449">https://cdn.zetsubou.games/Flatpak/WanderNoMore/2.jpg</image>
 		</screenshot>
 		<screenshot>
 			<image type="source" width="1186" height="665">https://cdn.zetsubou.games/Flatpak/WanderNoMore/screenshots/3.jpg</image>
-                        <image type="thumbnail" width="800" height="449">https://cdn.zetsubou.games/Flatpak/WanderNoMore/thumbnails/3.jpg</image>
+                        <image type="thumbnail" width="800" height="449">https://cdn.zetsubou.games/Flatpak/WanderNoMore/3.jpg</image>
 		</screenshot>
 		<screenshot>
 			<image type="source" width="1182" height="664">https://cdn.zetsubou.games/Flatpak/WanderNoMore/screenshots/4.jpg</image>
-                        <image type="thumbnail" width="800" height="449">https://cdn.zetsubou.games/Flatpak/WanderNoMore/thumbnails/4.jpg</image>
+                        <image type="thumbnail" width="800" height="449">https://cdn.zetsubou.games/Flatpak/WanderNoMore/4.jpg</image>
 		</screenshot>
 	</screenshots>
 	<content_rating type="oars-1.1">
