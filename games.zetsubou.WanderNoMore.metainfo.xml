@@ -34,7 +34,9 @@
 		</release>
 	</releases>
 	<project_license>LicenseRef-proprietary</project_license>
-	<developer_name>Zetsubou Games</developer_name>
+	<developer id="games.zetsubou">
+		<name>Zetsubou Games</name>
+	</developer>
 	<screenshots>
 		<screenshot type="default">
 			<image type="source" width="1186" height="667">https://cdn.zetsubou.games/Flatpak/WanderNoMore/screenshots/1.jpg</image>
