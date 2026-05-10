@@ -22,6 +22,11 @@
 	<url type="contact">https://zetsubou.games/links/</url>
 	<launchable type="desktop-id">games.zetsubou.WanderNoMore.desktop</launchable>
 	<releases>
+		<release version="1.2.6" date="2026-05-10">
+                        <description>
+                                <p>Updates the game engine and flatpak runtime versions</p>
+                        </description>
+                </release>
 		<release version="1.2" date="2022-05-22">
 			<description>
 				<p>Version 1.2.1 is a maintenance release. It doesn't add any new story content to the game.</p>
